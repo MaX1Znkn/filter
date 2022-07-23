@@ -1,0 +1,22 @@
+.Portfolio {
+	width: 70%;
+	margin: auto;
+}
+
+.ProjectList {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.btnSelected {
+	color: white;
+	background-color: black;
+}
+
+.btn {
+	margin: 10px 20px 10px 0px;
+	padding: 10px 16px;
+	border: 1px solid black;
+	cursor: pointer;
+}
